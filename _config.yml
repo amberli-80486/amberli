@@ -30,15 +30,14 @@ exclude:
   - not-pure-poole.gemspec
 
 # Optimize Jekyl SEO Tag
-twitter:
-  username: vszhub
-  card: summary
+Self:
+  username: amberli-80486
+  # card: summary
 logo: logo.png
 social:
-  name: Songzi Vong
+  name: Amber Li
   links:
-    - https://twitter.com/vszhub
-    - https://github.com/vszhub
+    - https://github.com/amberli-80486
 google_site_verification: xxxxx
 lang: en
 
@@ -51,6 +50,6 @@ google_analytics: G-72NSXNZ651
 
 # Specify the author for blog posts
 author:
-  name: Songzi Vong
-  url: https://github.com/vszhub/
-  email: vszhub@gmail.com
+  name: Amber
+  url: https://github.com/amberli-80486
+  email: amberli1729@gmail.com
